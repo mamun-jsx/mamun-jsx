@@ -16,3 +16,5 @@ I build secure, scalable backend systems and APIs.
 ### 🎯 Focus
 - Backend & API design  
 - Security & clean architecture.
+
+### Strong frontend skills alongside backend expertise.
