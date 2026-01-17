@@ -1,5 +1,5 @@
-###   💻 Backend-focused developer & Fiverr freelancer  
-###  I build secure, scalable backend systems and APIs.
+💻 Backend-focused developer & Fiverr freelancer  
+I build secure, scalable backend systems and APIs.
 
 ### 🚀 Currently
 - Fiverr freelancer (20+ positive WordPress reviews)
