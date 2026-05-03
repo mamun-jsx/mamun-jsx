@@ -1,9 +1,8 @@
-💻 Backend-focused developer & Fiverr freelancer  
+💻 Backend-focused developer  
 I build secure, scalable backend systems and APIs.
 
 ### 🚀 Currently
-- Fiverr freelancer (20+ positive WordPress reviews)
-- Expanding into **Application Development**
+- Exploring into **Go Lang**
 
 ### 🛠 Tech Stack
 - **Languages:** JavaScript, TypeScript, Go  
