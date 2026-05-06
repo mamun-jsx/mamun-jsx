@@ -11,6 +11,29 @@ I am a **Fullstack Developer** who loves building performant applications. My co
 
 - 🔭 I am currently working on **[Student-Portal University Management](https://github.com)**
 - 🌱 I’m currently learning **Go and Docker**
-- 📫 Reach me at: **mamun.jsx@gmail.com**
+
+### 🛠 Technical Proficiency
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Go (Golang), Echo Framework |
+| **Database & ORM** | PostgreSQL (Prisma), MongoDB (Mongoose) |
+| **Tools & DevOps** | Git, Docker, Figma, Firebase, Postman |
 
 ---
+### 🚀 Featured Projects
+*Note: Full source code for these projects is pinned on my profile.*
+
+#### [Event-Circle Management](https://event-circle-frontend.vercel.app/)
+*Full-stack ticketing platform with integrated payment solutions.*
+- **Stack:** TypeScript, PostgreSQL, Prisma, SSLCommerz.
+- **Key Features:** Real-time ticket sales, review system, responsive custom components, and secure payment gateway.
+
+#### [Food-Hub Multi-Vendor](https://food-hub-frontend-tan.vercel.app/)
+*Three-tier marketplace connecting Users, Providers, and Admins.*
+- **Stack:** TypeScript, Next.js, Shadcn UI, JWT.
+- **Key Features:** Multi-vendor architecture, role-based authentication, and a modern UI focused on user experience and review system.
+
+---
+
