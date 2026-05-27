@@ -9,7 +9,7 @@
 ### 🚀 Quick Summary
 I am a **Fullstack Developer** who loves building performant applications. My core expertise lies in crafting seamless user experiences with **React & Next.js**, and building robust, scalable backends using **Express.js** and **Go (Echo)**. I enjoy architecting data solutions using **PostgreSQL** and **MongoDB**.
 
-- 🔭 I am currently working on **[Student-Portal University Management](https://github.com)**
+- 🔭 I am currently working on **[Student-Portal University Management](https://github.com/mamun-jsx/student-portal)**
 - 🌱 I’m currently learning **Go and Docker**
 
 ### 🛠 Technical Proficiency
