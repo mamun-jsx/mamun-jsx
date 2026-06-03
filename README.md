@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Mamun</h1>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQFvN8RBSuaV_A/profile-displaybackgroundimage-shrink_350_1400/B56Z39nmlIIoAY-/0/1778076512024?e=1779926400&v=beta&t=ixbxf-j9fhdESu2Ua7xAu5h2tebkf01ywaZbPJ4gReM" alt="Abdullah Al Mamun Banner" width="100%" />
-</p>
-
 ---
 
 ### 🚀 Quick Summary
